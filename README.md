@@ -30,3 +30,7 @@
 ## Upload: 1 song
 - audio
     - 林俊杰 - 孤独娱乐
+
+## Upload: 1 song
+- lrc
+    - 孤独娱乐.lrc
